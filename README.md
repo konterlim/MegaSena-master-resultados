@@ -1,0 +1,2 @@
+# MegaSena-master-resultados
+ resultados
